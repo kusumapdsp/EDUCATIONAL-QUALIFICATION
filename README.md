@@ -36,6 +36,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Educational Qualifications
 
+### Secondary Educational 
+
 ### G.C.E. (O/L) Exam-2016
 
 ### Index No:61152919
@@ -49,6 +51,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Biology –S, Physics-S, Chemistry- S     
 
 ### Walasmulla National college, Walasmulla. 
+
+### Higher Educational
+
+### 
 
 
 
