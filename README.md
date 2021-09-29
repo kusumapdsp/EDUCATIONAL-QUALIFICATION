@@ -54,7 +54,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Higher Educational
 
-### 
+###  Undergraduate in Sri Lanka Institute of Information technology (SLIIT) B.Sc. Biotechnology.
 
 
 
