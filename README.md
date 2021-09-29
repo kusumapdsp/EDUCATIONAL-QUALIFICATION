@@ -42,7 +42,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Buddhism-A, Sinhala-A, English-S, Science-S, History-A Mathematics-s, APP.ENG.LIT-S, BUS.& ACCT-A, ICT-B
 
-### G.C.E. (A/L) Exam 2020 Index No:2165381
+### G.C.E. (A/L) Exam 2020
+
+### Index No:2165381
 
 ### Biology –S, Physics-S, Chemistry- S     
 
