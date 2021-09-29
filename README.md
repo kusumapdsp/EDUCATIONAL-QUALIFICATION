@@ -36,19 +36,19 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Educational Qualifications
 
-### G.C.E. (O/L) Exam  2016
+### G.C.E. (O/L) Exam-2016
 
 ### Index No:61152919
 
-### Buddhism-A, Sinhala-A, English-S, Science-S, History-A Mathematics-s, APP.ENG.LIT-S, BUS.& ACCT-A, ICT-B
+### Buddhism-A, Sinhala-A, English-S, Science-c, History-A Mathematics-c, APP.ENG.LIT-S, BUS.& ACCT-A, ICT-B
 
-### G.C.E. (A/L) Exam 2020
+### G.C.E. (A/L) Exam-2020
 
 ### Index No:2165381
 
 ### Biology –S, Physics-S, Chemistry- S     
 
-### Walasmulla National college, Walasmulla 
+### Walasmulla National college, Walasmulla. 
 
 
 
