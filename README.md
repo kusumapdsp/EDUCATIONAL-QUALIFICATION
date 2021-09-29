@@ -34,7 +34,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 
 
-### Educational Qualifications  G.C.E. (O/L) Exam  2016
+### Educational Qualifications
+
+### G.C.E. (O/L) Exam  2016
 
 ### Index No:61152919
 
