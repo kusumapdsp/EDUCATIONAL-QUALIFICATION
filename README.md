@@ -34,6 +34,20 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### About me
 
+### Educational Qualifications  G.C.E. (O/L) Exam  2016
+
+### Index No:61152919
+
+### Buddhism-A, Sinhala-A, English-S, Science-S, History-A Mathematics-s, APP.ENG.LIT-S, BUS.& ACCT-A, ICT-B
+
+### G.C.E. (A/L) Exam 2020 Index No:2165381
+
+### Biology –S, Physics-S, Chemistry- S     
+
+### Walasmulla National college, Walasmulla 
+
+
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
